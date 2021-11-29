@@ -84,7 +84,7 @@
 		<img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04/zhiji-l7-2308223.jpg?itok=7_ZHGR1M" width="1300px" height="600px" alt="First slide">
 		<div class="carousel-caption">
 		<h3>New York</h3>
-		<p>Pasemoslo bien en New York</p>
+		<p>Pasemoslo bien en New Yorkkk</p>
 		</div>
 	</div>
 </div>

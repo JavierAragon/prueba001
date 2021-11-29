@@ -88,7 +88,7 @@
 	<td>${contrasenya}</td>
 	</tr>
 	<tr>
-	<td>CONTRASEÑA REPETIDA</td>
+	<td>CONTRASEÑA REPETIDAAAA</td>
 	<td>${repcontrasenya}</td>
 	</tr>
 	
